@@ -9,6 +9,11 @@ Aero Convert is a lightweight, privacy-first Chrome Extension that lets you inst
 ## ✨ Features
 
 - **Zero-Click Conversions:** Highlight a price or measurement (e.g., "$100" or "50 miles") and see the conversion instantly in a clean, floating tooltip.
+<p align="center">
+  <img src="<p align="center">
+  <img src="Screenshot 2026-06-02 131631.png" alt="Aero Convert Banner" width="100%">
+</p>
+  
 - **Smart Detection:** Automatically handles complex formatting, shared currency symbols, and colloquial names (e.g., "Swiss Francs" to CHF).
 - **Live & Historical Rates:** Supports over 160 world currencies with live exchange rates and 7-day trend sparklines.
 - **Unit Conversions:** Instantly convert length, weight, temperature, volume, area, speed, and more.
