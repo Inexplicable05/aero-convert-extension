@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="Marquee promo tile.png" alt="Aero Convert Banner" width="100%">
+</p>
+
+# Aero Convert™: Zero Click Currency & Unit Conversion
+
 # Aero Convert™: Zero Click Currency & Unit Conversion
 
 Aero Convert is a lightweight, privacy-first Chrome Extension that lets you instantly convert currencies and units simply by highlighting text on any webpage. No clicks, no popups, no context-switching.
